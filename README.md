@@ -38,10 +38,10 @@
 
 ---
 
-## 3. Workflow Diagram
+## 3. gentic RAG Diagram
 
 <p align="center">
-  <img src="./assets/agentic_rag_flow.png" width="600" alt="Agentic RAG Flowchart"/>
+  <img src="https://embed.filekitcdn.com/e/k7YHPN24SoxyM8nGKZnDxa/81cg2zGi6cLRVmnNVQNV9r/email" width="600" alt="Agentic RAG Diagram"/>
 </p>
 
 ---
