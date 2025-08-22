@@ -2,18 +2,12 @@
 
 ---
 
-## 1. Item Introduction
-
-### Name
-- AI Agent & RAG Study  
-- Portfolio project exploring how LLM-based Agents and Retrieval-Augmented Generation (RAG) can enhance reliability and grounding in AI systems
+## 1. Introduction
 
 ### Overview
 - RAG (Retrieval-Augmented Generation) = retrieval of external knowledge + LLM-based generation  
 - AI Agent = LLM with agentic behaviors (query rewriting, decision-making, validation)  
 - Agentic RAG = extends RAG with autonomous loops for self-critique, retrieval, and revision  
-- Goal: Understand how **Heavy Generator + Light Judge** architecture improves output quality  
-- Outcome: Case study + diagrams showing iterative reasoning with 2x Judge validation  
 
 ---
 
@@ -32,7 +26,7 @@
   - Validate and critique output  
 
 ### Agentic RAG
-- Adds **agentic loop** on top of RAG  
+- Adds agentic loop on top of RAG  
 - Steps include:  
   1. Rewrite query  
   2. Decide if more details are required  
@@ -67,7 +61,7 @@ Day 7 (7/20): Travel Madrid → Lisbon (2h)
 ---
 
 ### Step 2 – Light Judge #1 (Feedback)
-**Issues Found**
+Issues Found
 - Day 1: Versailles closed on Monday (7/14)  
 - Day 2: Louvre closed on Tuesday (7/15)  
 - Day 7: Travel time underestimated (~4h needed)  
@@ -83,7 +77,7 @@ Day 7 (7/20): Travel Madrid → Lisbon (~4h)
 ---
 
 ### Step 4 – Light Judge #2 (Feedback)
-**Feedback**
+Feedback
 - Grounded in context  
 - No further issues → ✅ Approved  
 
@@ -99,7 +93,6 @@ July 14–23, 2025
 
 - Agents improve robustness: Iterative feedback reduces hallucinations and factual errors  
 - Heavy Generator (e.g., GPT-4) + Light Judge (e.g., GPT-3.5) balance cost and quality  
-- Agentic RAG is **not training like GAN** but **inference-time orchestration**  
 - Verification loops are crucial for real-world applications (travel planning, Q&A, enterprise search)  
 
 ---
