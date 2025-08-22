@@ -52,6 +52,8 @@
 > “Please generate a 10-day itinerary (2025-07-14 to 2025-07-23) covering Paris, Madrid, and Lisbon.”
 
 ---
+<img width="1442" alt="image" src="https://github.com/LEGEND-Jeon/AI-Agent/blob/main/examplerag.png?raw=true">
+<br>
 
 ### Step 1 – Heavy Generator (Draft Itinerary)
 Day 1 (7/14): Versailles in the afternoon  
