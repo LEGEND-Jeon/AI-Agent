@@ -53,7 +53,7 @@ AI 번역 모델(Gemini, GPT 등)을 이용해 영어로 번역하여 Word 문�
 │   ├── notice_results.json  # 중간 크롤링/번역 결과 저장
 │   └── CUK_Announcements_EN.docx  # 최종 산출물 (영문 공지 모음)
 └── README.md
-
+```
 ---
 
 ## ⚙️ How to Run
