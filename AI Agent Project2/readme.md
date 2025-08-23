@@ -44,6 +44,7 @@ AI 번역 모델(Gemini, GPT 등)을 이용해 영어로 번역하여 Word 문�
 ---
 
 ## 📂 Project Structure
+```bash
 .
 ├── searchURL.py             # 제목을 검색해 articleNo 포함 정규화 URL 추출
 ├── cuk_notice_agent.py      # URL에서 본문 추출 → 번역 → DOCX 생성 메인 파이프라인
