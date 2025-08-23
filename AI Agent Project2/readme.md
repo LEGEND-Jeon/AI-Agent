@@ -1,4 +1,4 @@
-# 📢 CUK Notice Translation Agent
+# 📢 Notice Translation Agent
 
 > **Catholic University of Korea Announcement → English Document Automation**  
 > 대학 공지사항을 자동으로 수집하고, 번역 규칙을 적용하여 영어 문서(DOCX)로 정리하는 AI Agent 프로젝트
